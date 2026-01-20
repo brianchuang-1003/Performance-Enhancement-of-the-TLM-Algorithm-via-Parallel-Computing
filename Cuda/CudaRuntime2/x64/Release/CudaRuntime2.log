@@ -1,0 +1,178 @@
+﻿  Compiling CUDA source file tlm_cuda.cu...
+  
+  C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin\nvcc.exe" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include"     --keep-dir x64\Release  -maxrregcount=0    --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/Fdx64\Release\vc143.pdb" -o "C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\x64\Release\tlm_cuda.cu.obj" "C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu" 
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(1330): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\driver_types.h(3139): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(8083): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(11752): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(64): error : expected a ";"
+    __declspec(__global__) void apply_source_kernel(double* V1, double* V2, double* V3, double* V4, int srcIdx, double E0) {
+                                                                                                                           ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(94): warning #12-D: parsing restarts here after previous syntax error
+        double* h_V1_out = (double*)malloc(sizeof(double));
+                                                          ^
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(101): error : no instance of overloaded function "cudaMalloc" matches the argument list
+              argument types are: (double **, <unknown-type>)
+        cudaMalloc(&d_V1, size); 
+        ^
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(4581): note #3326-D: function "cudaMalloc(void **, size_t)" does not match because argument #1 does not match parameter
+    extern __declspec(__host__) __declspec(__cudart_builtin__) cudaError_t __stdcall cudaMalloc(void **devPtr, size_t size);
+                                                                                     ^
+  C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/include\cuda_runtime.h(874): note #3326-D: function template "cudaMalloc(T **, size_t)" does not match because argument #2 does not match parameter
+    static __inline __declspec(__host__) cudaError_t cudaMalloc(
+                                                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(102): error : no instance of overloaded function "cudaMalloc" matches the argument list
+              argument types are: (double **, <unknown-type>)
+        cudaMalloc(&d_V2, size);
+        ^
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(4581): note #3326-D: function "cudaMalloc(void **, size_t)" does not match because argument #1 does not match parameter
+    extern __declspec(__host__) __declspec(__cudart_builtin__) cudaError_t __stdcall cudaMalloc(void **devPtr, size_t size);
+                                                                                     ^
+  C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/include\cuda_runtime.h(874): note #3326-D: function template "cudaMalloc(T **, size_t)" does not match because argument #2 does not match parameter
+    static __inline __declspec(__host__) cudaError_t cudaMalloc(
+                                                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(103): error : no instance of overloaded function "cudaMalloc" matches the argument list
+              argument types are: (double **, <unknown-type>)
+        cudaMalloc(&d_V3, size);
+        ^
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(4581): note #3326-D: function "cudaMalloc(void **, size_t)" does not match because argument #1 does not match parameter
+    extern __declspec(__host__) __declspec(__cudart_builtin__) cudaError_t __stdcall cudaMalloc(void **devPtr, size_t size);
+                                                                                     ^
+  C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/include\cuda_runtime.h(874): note #3326-D: function template "cudaMalloc(T **, size_t)" does not match because argument #2 does not match parameter
+    static __inline __declspec(__host__) cudaError_t cudaMalloc(
+                                                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(104): error : no instance of overloaded function "cudaMalloc" matches the argument list
+              argument types are: (double **, <unknown-type>)
+        cudaMalloc(&d_V4, size);
+        ^
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cuda_runtime_api.h(4581): note #3326-D: function "cudaMalloc(void **, size_t)" does not match because argument #1 does not match parameter
+    extern __declspec(__host__) __declspec(__cudart_builtin__) cudaError_t __stdcall cudaMalloc(void **devPtr, size_t size);
+                                                                                     ^
+  C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/include\cuda_runtime.h(874): note #3326-D: function template "cudaMalloc(T **, size_t)" does not match because argument #2 does not match parameter
+    static __inline __declspec(__host__) cudaError_t cudaMalloc(
+                                                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(106): error : no instance of overloaded function "size" matches the required type
+        cudaMemset(d_V1, 0, size); 
+                            ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(107): error : no instance of overloaded function "size" matches the required type
+        cudaMemset(d_V2, 0, size);
+                            ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(108): error : no instance of overloaded function "size" matches the required type
+        cudaMemset(d_V3, 0, size);
+                            ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(109): error : no instance of overloaded function "size" matches the required type
+        cudaMemset(d_V4, 0, size);
+                            ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(116): error : identifier "Ein" is undefined
+        int srcIdx = Ein[0] * NY + Ein[1]; 
+                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(117): error : identifier "Eout" is undefined
+        int outIdx = Eout[0] * NY + Eout[1];
+                     ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(122): error : identifier "NT" is undefined
+        for (int n = 0; n < NT; n++) {
+                            ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(124): error : identifier "dt" is undefined
+            double E0 = (1.0 / sqrt(2.0)) * exp(-(n * dt - delay) * (n * dt - delay) / (width * width));
+                                                      ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(124): error : identifier "delay" is undefined
+            double E0 = (1.0 / sqrt(2.0)) * exp(-(n * dt - delay) * (n * dt - delay) / (width * width));
+                                                           ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(124): error : identifier "width" is undefined
+            double E0 = (1.0 / sqrt(2.0)) * exp(-(n * dt - delay) * (n * dt - delay) / (width * width));
+                                                                                        ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(128): error : identifier "Z" is undefined
+            scatter_kernel << <gridSize, blockSize >> > (d_V1, d_V2, d_V3, d_V4, NX, NY, Z);
+                                                                                         ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(145): error : identifier "h_V1_out" is undefined
+        free(h_V1_out); free(h_V2_out); free(h_V3_out); free(h_V4_out);
+             ^
+  
+C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu(146): error : return value type does not match the function type
+        return 0;
+               ^
+  
+  18 errors detected in the compilation of "C:/Users/brian/OneDrive/桌面/20737828_Chuang_Pin_Lin_CW2/whole environment to each solution/whole environment to each solution/Cuda/CudaRuntime2/tlm_cuda.cu".
+  tlm_cuda.cu
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\CUDA 13.0.targets(803,9): error MSB3721: 命令 ""C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin\nvcc.exe" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include"     --keep-dir x64\Release  -maxrregcount=0    --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/Fdx64\Release\vc143.pdb" -o "C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\x64\Release\tlm_cuda.cu.obj" "C:\Users\brian\OneDrive\桌面\20737828_Chuang_Pin_Lin_CW2\whole environment to each solution\whole environment to each solution\Cuda\CudaRuntime2\tlm_cuda.cu"" 已結束，代碼為 2。
